@@ -128,5 +128,9 @@ https://day.comefly.top
 --------------------
 ........未完待续........
 --------
-
+域名解析记录
+-----
+![image](https://github.com/HPUhushicheng/Brief-introduction/assets/120257354/23636d41-212c-46d3-ba42-94c484e3b408)
+![image](https://github.com/HPUhushicheng/Brief-introduction/assets/120257354/60015910-87d5-4e58-8e25-b682852e13d0)
+![image](https://github.com/HPUhushicheng/Brief-introduction/assets/120257354/f4dc0224-8b2a-4112-b56c-58387ac61456)
 
